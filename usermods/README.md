@@ -18,5 +18,5 @@ like so:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Alan Devine | Turntables for D-shaped Shaft | Mod name is self-explanatory. D-shaped hole provides proper form-fit of the shaft and the turntable  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | ep1cman | Platform Holder | Base Plate with 4 slots for turntable storage | :x: | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | :x: | :x: |
-
+| pat149 | [OpenScan Classic Premium]([link](https://github.com/pat149/OpenScan_Classic_Premium)) | Complete redesign of the Classic version with many improvements. | :x: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
 
